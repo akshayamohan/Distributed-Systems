@@ -1,0 +1,1 @@
+Implemented a pub-sub system using Docker with the functionalities of the central server handled by Kafka. Real time data about Ubisoft game updates were collected from Twitter which can be subscribed to and receive updates. Kafka brokers were used to collect data and notify users. MySQL db was used as backend database.
